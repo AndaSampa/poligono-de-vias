@@ -7,3 +7,5 @@ resultado/poligono_de_vias.gpkg
 resultado/poligono_de_vias_com_larguras.gpkg
 resultado/*.gpkg-wal
 resultado/*.gpkg-shm
+gis/SIRGAS_GPKG_quadraviariaed_2017.gpkg
+resultado/pre-processamentos/00_cruzamentos_cidade_sao_paulo.gpkg
